@@ -1,11 +1,7 @@
 <h1 align="center">👋 I'm Seba Romero</h1>
 <h3 align="center">Frontend developer</h3>
 
-- 🔭 I’m currently working on **a startup proyect**
-
 - 👨‍💻 All of my projects are available at [https://sebaromerox.github.io/portafolios/](https://sebaromerox.github.io/portafolios/)
-
-- 💬 Ask me about **HTML, CSS, Javascript, React js**
 
 - 📫 How to reach me **seba.rmx.dev@gmail.com**
 
