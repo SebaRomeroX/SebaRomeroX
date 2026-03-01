@@ -1,16 +1,16 @@
-# 👋 ¡Hola! soy Seba Romero
+# 👋 ¡Hi! I'm Seba Romero
 
 ---
 
-## 🚀 Sobre mí
+## 🚀 About me
 
-- Me especializo en **JavaScript, React, TypeScript**
-- Actualmente estoy trabajando en proyectos personales como **enContacto**
-- Continuo mi formacion en **Programador Universitario**
+- I specialize in **JavaScript, React, TypeScript**
+- I develop personal projects to explore new technologies and take on challenges
+- I'm pursuing my **university degree in programming**
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## 🛠️ Tech & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -23,7 +23,7 @@
 
 ---
 
-## 📫 Conéctate conmigo
+## 📫 Contact me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sebastian-alejandro-romero/">
@@ -40,5 +40,5 @@
 ---
 
 <p align="center">
-  <i>⭐️ de Seba Romero Dev</i>
+  <i>⭐️ by Seba Romero Dev</i>
 </p>
